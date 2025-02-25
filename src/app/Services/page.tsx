@@ -28,7 +28,7 @@ export default function Services(){
                 <p className="text-sm">We just cannot be taken down by anyone.</p>
             </div>
             </div>
-            <div className='lg:*:mb-0 *:m-auto flex flex-wrap justify-center  place-content-center lg:flex-nowrap *:p-8 lg:*:border lg:*:border-t-0 lg:*:border-b-0  [&>:not(:last-child)]:border-r-0 *:w-[60%] lg:*:w-1/4 [&>:hover]:bg-gradient-to-t [&>:hover]:from-gray-100 [&>:hover]:to-white'>
+            <div className='lg:*:mb-0 *:m-auto flex flex-wrap justify-center  place-content-center lg:flex-nowrap *:p-8 lg:*:border lg:*:border-t-0 lg:*:border-b-0  [&>:not(:last-child)]:border-r-0 *:w-[60%] landscape:*:w-[40%] lg:*:w-1/4 [&>:hover]:bg-gradient-to-t [&>:hover]:from-gray-100 [&>:hover]:to-white'>
             <div>
                 <FaCodeBranch />
                  <h2 className="hover:translate-x-2 hover:transition my-2 text-lg font-bold">Multi-tenant Architecture</h2>
