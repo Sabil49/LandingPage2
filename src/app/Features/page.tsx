@@ -65,7 +65,7 @@ export default function Features(){
             <div className="bg-gradient-to-t h-10 absolute top-0 w-full from-transparent via-white to-white"></div>
             
 
-            <div className=" w-8/12  landscape:w-6/12 lg:w-5/12 absolute top-0 left-[16.67%] lg:left-[29.17%] data-image">
+            <div className=" w-8/12  landscape:w-5/12 lg:w-5/12 absolute top-0 left-[16.67%] lg:left-[29.17%]  landscape:left-[29.17%] data-image">
             <div className=" p-2 rounded-3xl bg-[#f5f5f5] border border-[rgb(229 229 229)]">
                 <div className="w-full rounded-3xl bg-white p-2 border border-[rgb(229 229 229)]">
                     <div className="w-full bg-[#fafafa] rounded-3xl">
