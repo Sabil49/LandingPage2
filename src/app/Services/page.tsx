@@ -3,7 +3,7 @@ import { FaCode ,FaBacon,FaDollarSign,FaCloud,FaCodeBranch,FaRegQuestionCircle,F
 export default function Services(){
     return(
         <div className=' w-full pt-16 pb-4'>
-            <div className=' *:mb-2 lg:*:mb-0 *:m-auto flex flex-wrap justify-center  place-content-center lg:flex-nowrap *:p-8 lg:*:border lg:*:border-t-0  [&>:not(:last-child)]:border-r-0 *:w-[60%] lg:*:w-1/4 [&>:hover]:bg-gradient-to-t [&>:hover]:from-gray-100 [&>:hover]:to-white'>
+            <div className=' *:mb-2 lg:*:mb-0 *:m-auto flex flex-wrap justify-center  place-content-center lg:flex-nowrap *:p-8 lg:*:border lg:*:border-t-0  [&>:not(:last-child)]:border-r-0 *:w-[60%] landscape:*:w-[40%] lg:*:w-1/4 [&>:hover]:bg-gradient-to-t [&>:hover]:from-gray-100 [&>:hover]:to-white'>
             <div className=''>
                 <FaCode />
                  <h2 className="hover:translate-x-2 hover:transition my-2 text-lg font-bold">Built for developers</h2>
