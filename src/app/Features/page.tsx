@@ -20,7 +20,7 @@ export default function Features(){
         
         
         <div className=" lg:h-[820px] landscape:h-[720px] mt-8 relative select-none [&>:not(:first-child):not(:last-child)]:opacity-[0.4]">
-        <div className=" landscape:hidden bg-gradient-to-b z-50 h-40 absolute bottom-0 w-full from-transparent via-white to-white"></div>
+        <div className=" bg-gradient-to-b z-50 h-40 absolute bottom-0 w-full from-transparent via-white to-white"></div>
             <div className=" lg:h-[750px] landscape:h-[650px] shadow-2xl w-10/12 lg:w-9/12 m-auto *:pb-3 p-6">
                 <div className=" flex items-center">
                     <div className="w-1/12"><Image className="rounded-full mr-2" src="/Images/photo.png" width={32} height={30} alt="logo" /></div>
