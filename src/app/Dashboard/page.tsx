@@ -87,8 +87,8 @@ export default function Dashboard(){
                         <div className=" rounded-full w-8 h-8 bg-slate-200 ml-4"></div>
                     </div>
                 </div>
-                <div className=" bg-white p-4">
-                <div className="*:w-[47.25%] gap-y-1 lg:gap-y-0 lg:*:w-1/4 flex flex-wrap lg:flex-nowrap rounded-md *:p-4 gap-x-1 *:rounded-md  *:border border-[rgb(229 229 229)]">
+                <div className=" bg-white p-2">
+                <div className="*:w-[47.25%] gap-y-2 lg:gap-y-0 lg:*:w-1/4 flex flex-wrap lg:flex-nowrap rounded-md *:p-4 gap-x-2 *:rounded-md  *:border border-[rgb(229 229 229)]">
                     <div>
                         <b className=" ">Total Users</b>
                         <p className="text-xs text-gray-400">The total number of registered users till now.</p>
