@@ -19,9 +19,9 @@ export default function Features(){
        </div>
         
         
-        <div className=" h-[670px] lg:h-[820px] mt-8 relative select-none [&>:not(:first-child):not(:last-child)]:opacity-[0.4]">
-        <div className="bg-gradient-to-b z-50 h-40 absolute bottom-0 w-full from-transparent via-white to-white"></div>
-            <div className=" h-[600px] lg:h-[750px] shadow-2xl w-10/12 lg:w-9/12 m-auto *:pb-3 p-6">
+        <div className=" lg:h-[820px] mt-8 relative select-none [&>:not(:first-child):not(:last-child)]:opacity-[0.4]">
+        <div className=" landscape:hidden bg-gradient-to-b z-50 h-40 absolute bottom-0 w-full from-transparent via-white to-white"></div>
+            <div className=" lg:h-[750px] shadow-2xl w-10/12 lg:w-9/12 m-auto *:pb-3 p-6">
                 <div className=" flex items-center">
                     <div className="w-1/12"><Image className="rounded-full mr-2" src="/Images/photo.png" width={32} height={30} alt="logo" /></div>
                     <div className="w-11/12"><p>I want to generate an image of two people, fighting outside a bar. They fight to the core. Once they're done, they sit down and drink beer.</p></div>
